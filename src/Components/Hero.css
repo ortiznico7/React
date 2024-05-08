@@ -1,0 +1,8 @@
+.hero {
+background-image: url("https://static.wikia.nocookie.net/p__/images/2/25/Om_Nom.png/revision/latest?cb=20210907011744&path-prefix=protagonist");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
